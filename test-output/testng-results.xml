@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Praveen" duration-ms="100701" started-at="2020-02-23T21:18:33 IST" finished-at="2020-02-23T21:20:13 IST">
+    <groups>
+    </groups>
+    <test name="Automation" duration-ms="100701" started-at="2020-02-23T21:18:33 IST" finished-at="2020-02-23T21:20:13 IST">
+      <class name="week5.day1.framework.CreateLead2">
+        <test-method status="PASS" signature="createLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.framework.CreateLead2@711f39f9]" name="createLogin" is-config="true" duration-ms="16775" started-at="2020-02-23T21:18:34 IST" finished-at="2020-02-23T21:18:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosalesmanager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLogin -->
+        <test-method status="PASS" signature="pgm(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.framework.CreateLead2@711f39f9]" name="pgm" duration-ms="13869" started-at="2020-02-23T21:18:51 IST" data-provider="getData" finished-at="2020-02-23T21:19:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestLeaf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pgm -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:week5.day1.framework.CreateLead2@711f39f9]" name="logout" is-config="true" duration-ms="2503" started-at="2020-02-23T21:19:05 IST" finished-at="2020-02-23T21:19:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="createLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.framework.CreateLead2@711f39f9]" name="createLogin" is-config="true" duration-ms="11281" started-at="2020-02-23T21:19:07 IST" finished-at="2020-02-23T21:19:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosalesmanager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLogin -->
+        <test-method status="PASS" signature="pgm(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.framework.CreateLead2@711f39f9]" name="pgm" duration-ms="7488" started-at="2020-02-23T21:19:19 IST" data-provider="getData" finished-at="2020-02-23T21:19:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Spinebiz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Praveen]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pgm -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:week5.day1.framework.CreateLead2@711f39f9]" name="logout" is-config="true" duration-ms="2275" started-at="2020-02-23T21:19:26 IST" finished-at="2020-02-23T21:19:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="createLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.framework.CreateLead2@711f39f9]" name="createLogin" is-config="true" duration-ms="30590" started-at="2020-02-23T21:19:28 IST" finished-at="2020-02-23T21:19:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosalesmanager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLogin -->
+        <test-method status="PASS" signature="pgm(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.framework.CreateLead2@711f39f9]" name="pgm" duration-ms="12135" started-at="2020-02-23T21:19:59 IST" data-provider="getData" finished-at="2020-02-23T21:20:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[OmSaravana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saravanan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mani]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pgm -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:week5.day1.framework.CreateLead2@711f39f9]" name="logout" is-config="true" duration-ms="2131" started-at="2020-02-23T21:20:11 IST" finished-at="2020-02-23T21:20:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- week5.day1.framework.CreateLead2 -->
+    </test> <!-- Automation -->
+  </suite> <!-- Praveen -->
+</testng-results>
